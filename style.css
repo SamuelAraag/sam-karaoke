@@ -1,0 +1,19 @@
+.login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+}
+
+.inputs {
+  display: grid;
+  text-align: center;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+button {
+  height: 50px;
+}
